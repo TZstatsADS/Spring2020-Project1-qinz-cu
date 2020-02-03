@@ -1,5 +1,4 @@
-# Applied Data Science @ Columbia
-## Spring 2020
+# Applied Data Science @ Columbia - Spring 2020
 ## Project 1: Lyrics Analysis - Why do I dislike Metal Music?
 
 ![image](figs/loudmusic.jpg)
