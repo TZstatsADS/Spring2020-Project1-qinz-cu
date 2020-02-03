@@ -1,16 +1,16 @@
 # Applied Data Science @ Columbia
 ## Spring 2020
-## Project 1: A "data story" on the songs of our times
+## Project 1: Lyrics Analysis - Why do I dislike Metal Music?
 
-<img src="figs/title1.jpeg" width="500">
+<img src="loud music.jpg" width="500">
 
 ### [Project Description](doc/)
-This is the first and only *individual* (as opposed to *team*) this semester. 
+This project uses text mining, topic modeling, and sentiment analysis to analyze the metal music's lyrics and gain a basic understanding of metal music. The report of this report can be considered as a mini wikipedia for people who don't know about metal music. 
 
 Term: Spring 2020
 
-+ Projec title: Lorem ipsum dolor sit amet
-+ This project is conducted by [your name]
++ Projec title: Why do I dislike Metal Music? - Metal music mini wikipedia based on data
++ This project is conducted by Qin Zhang (qz2387)
 
 + Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
@@ -25,4 +25,4 @@ proj/
 └── output/
 ```
 
-Please see each subfolder for a README file.
+Please see each subfolder for a README file. In general
