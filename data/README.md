@@ -1,4 +1,4 @@
-# Project 1: Lyrics Analysis - Why do I dislike Metal Music?
+# ADS Project 1: Lyrics Analysis - Why do I dislike Metal Music?
 ### Data folder
 
 The data directory contains data used in the analysis. 
