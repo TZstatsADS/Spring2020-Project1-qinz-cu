@@ -1,5 +1,7 @@
-# ADS Project 1: R Notebook on Lyrics Analysis
+# Project 1: R Notebook on Lyrics Analysis
 ### Data folder
 
-The data directory contains data used in the analysis. This is treated as read only; in paricular the R/python files are never allowed to write to the files in here. Depending on the project, these might be csv files, a database, and the directory itself may have subdirectories.
+The data directory contains data used in the analysis. 
+* "lyrics.csv" is a filtered corpus of 100,000+ song lyrics from MetroLyrics. Available features are song name, year, artist, genre, and lyrics. The complete 380,000+ song lyrics data on [Kaggle](https://www.kaggle.com/gyani95/380000-lyrics-from-metrolyrics).
 
+* "artists.csv" provides additional background information of all the artistis. These information were scraped from LyricsFreak by the ADS instructional team. For the singers, a detailed biography is provided. And for the bands, available information are members, established year and location. This project did not use this data.
