@@ -2,7 +2,7 @@
 ## Spring 2020
 ## Project 1: Lyrics Analysis - Why do I dislike Metal Music?
 
-![image](Spring2020-Project1-qinz-cu/figs/loud music.jpg)
+![image](figs/loud music.jpg)
 
 ### [Project Description](doc/)
 This project uses text mining, topic modeling, and sentiment analysis to analyze the metal music's lyrics and gain a basic understanding of metal music. The report of this report can be considered as a mini wikipedia for people who don't know about metal music. 
