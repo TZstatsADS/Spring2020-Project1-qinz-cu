@@ -4,7 +4,7 @@
 ![image](figs/loudmusic.jpg)
 
 ### [Project Description](doc/)
-This project uses *text mining*, *topic modeling*, and *sentiment analysis* to analyze the metal music's lyrics and gain a basic understanding of metal music. The report of this report can be considered as a mini wikipedia for people who don't know about metal music. 
+This project uses *text mining*, *topic modeling*, and *sentiment analysis* to analyze the metal music's lyrics and gain a basic understanding of metal music. The report of this project can be considered as a mini wikipedia for people who don't know about metal music. 
 
 Term: Spring 2020
 
@@ -28,3 +28,6 @@ proj/
 ```
 
 Please see each subfolder for a README file. In general, please download the processed data in the *output* directory to reproduce the Rmd file faster, then, download all of the figures in the *figs* directory in the same folder. Finally, the Rmd files can be found in *doc* directory.
+
+
+![image](figs/metalconcert.jpg)
