@@ -35,7 +35,7 @@ proj/
 └── output/
 ```
 
-Please see each subfolder for a README file. In general, please download the processed data in the *output* directory to reproduce the Rmd file faster, then, download all of the figures in the *figs* directory in the same folder. Finally, the Rmd files can be found in *doc* directory.
+Please see each subfolder for a README file. In general, please download the processed data in the **output** directory to reproduce the Rmd file faster, then, download generated figures in the **figs** directory in the same folder. Other figures for report can be found at **images** folder under the **doc** directory. Please download all of them. Finally, the Rmd files can be found in **doc** directory.
 
 
 ![image](doc/images/metalconcert.jpg)
