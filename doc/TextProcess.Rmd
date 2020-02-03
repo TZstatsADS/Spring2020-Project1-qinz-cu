@@ -27,27 +27,9 @@ datatable(data)
 ```
 
 
-
-
-
-
 ## Step 2 - Data processing
 
-
-
-
-
-
-
-
-
-
 In this part, **tm** package is used to process the text data such as removing stopwords, conducting words stemming and completion, and creating tidy format for further analysis.s
-
-
-
-
-
 
 ```{r}
 # define the function of removing "-"
@@ -141,17 +123,7 @@ data2 = data1 %>%
 ```
 
 
-
-
-
-
-
-
-
-
 ## Step 3 - Split the data
-
-
 
 ```{r}
 # rename specific columns' names
@@ -170,18 +142,11 @@ datatable(pop)
 ```
 
 
-
-
-
-
-
-
-
-
 ## Step 4 - Save data
-
 
 ```{r}
 save(metal, file = "metal.RData")
 save(pop, file = "pop.RData")
 ```
+
+
