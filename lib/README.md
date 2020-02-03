@@ -1,4 +1,4 @@
-# ADS Project 1:  R Notebook on Lyrics Analysis
+# ADS Project 1: Lyrics Analysis - Why do I dislike Metal Music?
 
 ### Code lib Folder
 
