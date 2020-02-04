@@ -18,7 +18,7 @@ Term: Spring 2020
   * How can I avoid accidentally hearing the metal music?
   
 
-### [Project Report](doc/)
+### [Project Report](https://qinz-cu.github.io/lyrics-analysis/Metal music.html)
 
 
 ### [Project Code](doc/)
