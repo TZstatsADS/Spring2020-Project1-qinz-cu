@@ -11,10 +11,11 @@ Term: Spring 2020
 + Projec title: Why do I dislike Metal Music? - Metal music mini wikipedia based on data
 + This project is conducted by Qin Zhang (qz2387)
 
-+ Project summary: People like me who dislike loud and distorted sound barely listen to the metal music. However, we cannot judge anything before knowing it. Thus, this project uses the lyrics of metal music to analyze the topic of heavy metal music, the emotions it expresses, and its sentiment change by year. To gain a straightforward understanding, my favorite genre - pop music is used to make comparisons. Three questions are answered through the project:
++ Project summary: People like me who dislike loud and distorted sound barely listen to the metal music. However, we cannot judge anything before knowing it. Thus, this project uses the lyrics of metal music to analyze the topic of heavy metal music, the emotions it expresses, its sentiment change by year, and the songs' name words association. To gain a straightforward understanding, my favorite genre - pop music is used to make comparisons. Four questions are answered through the project:
   * What is metal music about?
   * What emotions does metal music express?
   * How does metal music's sentiment change by year?
+  * How can I avoid accidentally hearing the metal music?
   
 
 ### [Project Report](doc/)
