@@ -20,6 +20,8 @@ Term: Spring 2020
 
 ### [Project Report](https://qinz-cu.github.io/lyrics-analysis/Metal%20music.html)
 
+If you want to view the final report first, please directly click on the project report title above.
+
 
 ### [Project Code](doc/)
 
