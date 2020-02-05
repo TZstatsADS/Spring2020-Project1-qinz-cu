@@ -99,6 +99,8 @@ tidy_pop = pop %>%
 
 ```{r echo=FALSE, out.height="400px", out.width="100%"}
 include_graphics("metal_wc.png")  ## the figure's path
+
+## can use wordcloud2(tidy_metal, figPath = "metal.png", size = 1.5, color='random-light', backgroundColor = "black") to produce this wordcloud image
 ```
 
 
@@ -107,6 +109,8 @@ include_graphics("metal_wc.png")  ## the figure's path
 
 ```{r echo=FALSE, out.height="400px", out.width="100%"}
 include_graphics("pop_wc.png")  ## the figure's path
+
+## wordcloud2(tidy_pop, figPath = "pop.jpeg", size = 1.5, color = "random-light", backgroundColor = "azure") to produce this wordcloud image
 ```
 
 
